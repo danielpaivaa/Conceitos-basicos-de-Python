@@ -32,11 +32,11 @@ help()
 
 O padrão de nomes é snake case
 
-    Ex: boaspraticas
+    Ex: boas_praticas
 
 Escolhe-se nomes sujestivos
 
-    Ex: nota1, nota2, media
+    Ex: nota_1, nota_2, media
 
 Nomes de constantes tudo em maiúsculo
 
@@ -44,12 +44,12 @@ Nomes de constantes tudo em maiúsculo
 
 ## Operadores
 
-Operadores Arutiméticos
+Operadores Aritiméticos
 
     () (parêntesis)
     ** (expoêntes)
-    *, /, // (multiplicação e divisão da esquerad para direita)
-    =, - (soma e subitração da esquerda para direita)
+    *, /, // (multiplicação e divisão da esquerda para direita)
+    +, - (soma e subitração da esquerda para direita)
     % (módulo ou resto da divisão)
 
 Operadores de Comparação
@@ -66,7 +66,6 @@ Operadores de Atribuição
     *= (atribuição com multiplicação)
     /= (atribuição com divisão)
     //= (atribuição com divisão inteira)
-    %= (atribuição com módulo da divisão)
     **= (atribuição com exponenciação)
 
 Operadores Lógicos
@@ -83,9 +82,9 @@ Operadores de Identidade
 
 Operadores de Associação
 
-    in (verifica se um objeto está presente  em uma sequencia)
+    in (verifica se um objeto está presente em uma sequência)
 
-    not in (verifica se um objeto não está presente  em uma sequencia)
+    not in (verifica se um objeto não está presente em uma sequência)
 
 ## Input e Output
 
