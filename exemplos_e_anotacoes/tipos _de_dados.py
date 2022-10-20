@@ -1,7 +1,3 @@
-from pickle import TRUE
-from tokenize import Double
-
-
 int();
 float();
 str();
